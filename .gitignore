@@ -1,5 +1,7 @@
 .qa/
 node_modules/
+.ssr/
+.sites-runtime/
 *.log
 *.zip
 *.tar.gz
